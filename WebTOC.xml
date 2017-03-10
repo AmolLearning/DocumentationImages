@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e119c7e1-cb9d-4527-82e3-dd615b091069" Title="SeleniumUtilities" Url="html/64717a88-234e-00d4-5718-2049d9858042.htm">
+    <HelpTOCNode Id="523fbb2a-ce9b-4ee9-acef-f566cbcbc5ca" Title="DriverUtilities Class" Url="html/cbad7a52-65c6-195e-77b5-8e344cadfbc8.htm">
+      <HelpTOCNode Title="DriverUtilities Constructor " Url="html/42b8f908-8356-6e7c-916a-8e19b696962a.htm" />
+      <HelpTOCNode Id="2ebca968-8db8-4bce-8569-e1769a5fbc7c" Title="DriverUtilities Fields" Url="html/46e1cea4-a833-48cd-031e-abcd5c55230e.htm">
+        <HelpTOCNode Title="baseURL Field" Url="html/f86bd9b1-6f4b-374f-4fe4-23f1d12e1232.htm" />
+        <HelpTOCNode Title="browser Field" Url="html/15e51f57-4f15-3fd9-67e2-e3eb1c2d32f8.htm" />
+        <HelpTOCNode Title="driver Field" Url="html/63ecb316-5e91-a0c2-845c-abbd15ff4114.htm" />
+        <HelpTOCNode Title="stateCode Field" Url="html/8b2587d4-dcbf-1da2-0b74-62b0e27e8235.htm" />
+        <HelpTOCNode Title="stateName Field" Url="html/99988881-3d3c-e782-3311-d526b18cde92.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4ff38d4a-3043-4e81-b8a4-b36337278b78" Title="DriverUtilities Methods" Url="html/b1857e50-a2bf-e662-4c1e-d0b381973905.htm">
+        <HelpTOCNode Title="AcceptAndCloseAlert Method " Url="html/fcbb91df-e43e-5e25-a709-ccd99850f5a2.htm" />
+        <HelpTOCNode Title="ActionBuilder Method " Url="html/375a2407-5081-c38e-603e-4e07993fe930.htm" />
+        <HelpTOCNode Title="ClearTextIgnoringStaleElementException Method " Url="html/c785e534-26b6-482d-b8b9-12af33f4bfa2.htm" />
+        <HelpTOCNode Title="ClickOnCellTextFromTable Method " Url="html/afeb855a-326c-473a-deb5-51c398c8f3f1.htm" />
+        <HelpTOCNode Title="ClickOnElement Method " Url="html/561768de-1342-2ab5-150c-2bd19549dd6e.htm" />
+        <HelpTOCNode Title="ClickOnElementIgnoringStaleElementException Method " Url="html/a0041c7e-63a9-29bf-ef99-8e80f35eff1e.htm" />
+        <HelpTOCNode Title="ClickOnSpecificCellFromTable Method " Url="html/a6733706-020f-be3c-e210-83bd951872a1.htm" />
+        <HelpTOCNode Title="CloseAlertAndGetItsText Method " Url="html/ac68e165-ebf8-3906-1d63-d5522c20db3f.htm" />
+        <HelpTOCNode Title="DragAndDrop Method " Url="html/49a31aba-5fc2-9ff0-2fb4-5eb89ea0cfc5.htm" />
+        <HelpTOCNode Id="8485b0e1-022c-442a-9e88-9442afdf3df3" Title="Dropdown Method " Url="html/02f154fe-b67e-9513-87d6-577e5ee8ecb2.htm">
+          <HelpTOCNode Title="Dropdown Method (By)" Url="html/e26647b2-4ab3-22af-6654-6f62af9a481e.htm" />
+          <HelpTOCNode Title="Dropdown Method (IWebElement)" Url="html/1c40c6c6-bf5a-a342-e115-0883f160b151.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EnterText Method " Url="html/a5e48bf2-65ba-e1fe-5aa5-8f99b485a9ae.htm" />
+        <HelpTOCNode Title="EnterTextIgnoringStaleElementException Method " Url="html/2527453f-970a-a8e7-22a2-29db501ea507.htm" />
+        <HelpTOCNode Title="FindElement Method " Url="html/4fc38ee3-9499-7877-5faf-580e38ebc773.htm" />
+        <HelpTOCNode Title="GetAllItemsToStringList Method " Url="html/04b18b06-0b68-3945-91c2-c5325e8c8137.htm" />
+        <HelpTOCNode Title="GetAllItemsToStringListExcludingBlank Method " Url="html/3df728d6-ca05-ec0a-e1e4-6168f6b34852.htm" />
+        <HelpTOCNode Title="GetAttributeValue Method " Url="html/9291b4a7-25d3-e42d-6dfe-e89ac34bf5ed.htm" />
+        <HelpTOCNode Title="GetCollection Method " Url="html/18adffba-d022-8c29-f89b-3396d17440fd.htm" />
+        <HelpTOCNode Title="GetCollectionFromPageToStringList Method " Url="html/aef7842b-ad98-7977-eda3-fcc87524f42f.htm" />
+        <HelpTOCNode Title="GetCollectionFromPageToStringListWit Method " Url="html/2ef616db-bb8d-fe8d-c28e-270fc3d35e87.htm" />
+        <HelpTOCNode Title="GetCollectionToList Method " Url="html/86032666-d089-290c-da27-f90a927b2b38.htm" />
+        <HelpTOCNode Title="GetIndexOfRowContainingSpecificText Method " Url="html/4c54d532-17fb-4530-7ffb-5540d01bc158.htm" />
+        <HelpTOCNode Title="GetIndexOfTableRowContainingSpecificText Method " Url="html/d7f5f4b2-0b34-8f38-de2b-6adf77e0a8cf.htm" />
+        <HelpTOCNode Title="GetIwebElementTextToStringList Method " Url="html/98ab9906-caab-2035-2944-ce62733a62b5.htm" />
+        <HelpTOCNode Id="87259ac2-d546-474f-8ebc-616585afc09b" Title="GetNumberOfRowsInTable Method " Url="html/0e2d250c-93cf-c968-40fb-dcd4f3b01797.htm">
+          <HelpTOCNode Title="GetNumberOfRowsInTable Method (By)" Url="html/87843f45-1663-98a3-0d3e-31a2735fe649.htm" />
+          <HelpTOCNode Title="GetNumberOfRowsInTable Method (IWebElement)" Url="html/484e8531-3b7e-825c-c3de-e48f91f3133a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetText Method " Url="html/bbd65aa6-902a-5fc1-fd73-8d60ad19f122.htm" />
+        <HelpTOCNode Id="0f26dd8b-2438-4e4e-9570-03aac7324391" Title="GetValueFromSpecificCellFromTable Method " Url="html/a1bcc3e2-7217-c5f5-8b20-7b2f5e8a0c87.htm">
+          <HelpTOCNode Title="GetValueFromSpecificCellFromTable Method (By, Int32, Int32)" Url="html/5b2aa31d-7100-b8ca-5e88-e613f28ee7ef.htm" />
+          <HelpTOCNode Title="GetValueFromSpecificCellFromTable Method (IWebElement, Int32, Int32)" Url="html/8a104628-e7c5-eeda-3781-587dac5682f9.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetValuesOfColumnFromTable Method " Url="html/f95bb33d-f832-5c93-b6af-faff6cb60a92.htm" />
+        <HelpTOCNode Id="9bc3573d-fcd6-4ff1-b140-615751b04567" Title="GetValuesOfSpecificColumnFromTable Method " Url="html/610a4a39-8e3b-2d18-e163-00dcc3e0f0ca.htm">
+          <HelpTOCNode Title="GetValuesOfSpecificColumnFromTable Method (By, Int32)" Url="html/81d7ac27-fb82-ef4f-4cf7-73b485a6d56f.htm" />
+          <HelpTOCNode Title="GetValuesOfSpecificColumnFromTable Method (IWebElement, Int32)" Url="html/0f548fa0-225a-fc98-871c-4e13bada1977.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HandleNotNullInnerException Method " Url="html/8e6e479f-4e9d-c6d3-9e98-0226fb811d17.htm" />
+        <HelpTOCNode Title="HandleNullInnerException Method " Url="html/6242730c-cbdf-7445-5966-05df7101700f.htm" />
+        <HelpTOCNode Title="ImplicitWait Method " Url="html/5cee7217-6b21-0906-649e-63f457c16e16.htm" />
+        <HelpTOCNode Title="IsAlertPresent Method " Url="html/7b06786d-dd32-48ea-ac47-5e10b0490c85.htm" />
+        <HelpTOCNode Id="1b656d00-8e0f-4aee-82b8-8d9d766eaadd" Title="IsElementPresent Method " Url="html/33ea5f12-d392-fa55-0cac-7c5d0fa27c2f.htm">
+          <HelpTOCNode Title="IsElementPresent Method (By)" Url="html/84fb41a2-8a34-4c9c-b762-37d9f2a0c4e5.htm" />
+          <HelpTOCNode Title="IsElementPresent Method (IWebElement)" Url="html/0350b83b-09b2-7f87-6bed-baea2427ea54.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="JsClick Method " Url="html/d570f959-3d34-58cb-a3da-95913b80409b.htm" />
+        <HelpTOCNode Title="JsExecutor Method " Url="html/6d1a8a45-f556-d794-e035-e0fa8b230871.htm" />
+        <HelpTOCNode Title="JsScrollTillEnd Method " Url="html/1df42633-959a-349d-a5a2-85b71dc955a9.htm" />
+        <HelpTOCNode Title="JsScrollTillPoint Method " Url="html/90d27d9c-4044-8ca4-20ba-6129fcbe02ce.htm" />
+        <HelpTOCNode Title="JsScrollToTop Method " Url="html/796178a0-4fc5-ac58-2cb8-71f37d7bc64b.htm" />
+        <HelpTOCNode Title="LoginWithDifferentUser Method " Url="html/b4ccf1ad-87cc-354c-8d9b-dbf3926de7a8.htm" />
+        <HelpTOCNode Title="ManageFailure Method " Url="html/28218658-39a1-42b6-d50d-e388602f2af0.htm" />
+        <HelpTOCNode Title="MoveCursor Method " Url="html/cbace929-7787-8e27-19d1-f8936ed77cdf.htm" />
+        <HelpTOCNode Title="NavigateToURL Method " Url="html/0f0b7a1f-e8c0-4d2e-359f-ce06e0681b3a.htm" />
+        <HelpTOCNode Title="PrintStringList Method " Url="html/015e7512-ea4b-d84e-36a4-f8af1069215d.htm" />
+        <HelpTOCNode Title="SelectFromDrpDwnIgnoringStaleElementException Method " Url="html/8ddd8fe7-5105-350e-8132-fbf6ba9d1ab3.htm" />
+        <HelpTOCNode Title="SelectFromListDropDown Method " Url="html/67c423b6-d3c4-1aa6-57d8-71fe03f4bc7e.htm" />
+        <HelpTOCNode Title="SelectFromListDrpDwnIgnoringStaleElementException Method " Url="html/b615acc2-b994-91c3-d708-7af11934f2f6.htm" />
+        <HelpTOCNode Title="SetfocusAndClickOnIWebElement Method " Url="html/6db48f48-b3d8-0421-88a2-aa53c9bda1ed.htm" />
+        <HelpTOCNode Title="SetfocusOnIWebElement Method " Url="html/feae56fa-2644-cfef-81dd-9d0bbf61b1bc.htm" />
+        <HelpTOCNode Title="Setup Method " Url="html/928ccf3a-831a-8fc9-9e87-6e7e04bba5a5.htm" />
+        <HelpTOCNode Title="SplitEachItemInStringCollectionAndAddtoList Method " Url="html/0e235f02-13fb-4876-a938-826da66576f2.htm" />
+        <HelpTOCNode Title="SwitchToDilog Method " Url="html/2cb07123-239b-88ee-fce6-c803a52927db.htm" />
+        <HelpTOCNode Title="SwitchToWindow Method " Url="html/5ba3fedc-1350-2cb1-e837-1be13f682fc2.htm" />
+        <HelpTOCNode Title="TakeScreenshot Method " Url="html/63ecf7be-750e-63cb-1de1-191b187407b9.htm" />
+        <HelpTOCNode Title="Teardown Method " Url="html/f0aeaeb6-66ab-a580-6ddb-6df808a51495.htm" />
+        <HelpTOCNode Title="Wait Method " Url="html/8b54c583-b6da-b1ba-72ac-ebce454b2009.htm" />
+        <HelpTOCNode Id="58e3fe99-a36a-4149-92e3-37207e09d0d4" Title="WaitForElementIsClickable Method " Url="html/29177368-c7ff-6cf1-42fd-c97730728ba5.htm">
+          <HelpTOCNode Title="WaitForElementIsClickable Method (By, Int32)" Url="html/64da5a18-e8e2-daa7-9e15-3c045ea2b335.htm" />
+          <HelpTOCNode Title="WaitForElementIsClickable Method (IWebElement, Int32)" Url="html/f137bfb6-13bb-eada-42c0-39afba1f6401.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WaitForElementToGetInVisible Method " Url="html/54c02ec1-c5a4-0b4e-69c5-096f4a527e52.htm" />
+        <HelpTOCNode Title="WaitForElementVisible Method " Url="html/c5781fe4-8a0e-2059-90bd-8eefdc3db9a7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="85090edc-df19-47cd-a952-cbc68e108895" Title="DriverUtilities Properties" Url="html/41820237-5511-3d71-04d7-b896a7c8b79c.htm">
+        <HelpTOCNode Title="dateTimeStamp Property " Url="html/47d40ce9-880b-b3e9-437b-c01098358a69.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3a9a4828-ea5f-4c51-b047-d2e65d9d1d91" Title="Extensions Class" Url="html/9484a08c-57f9-1456-b69a-045cbc314771.htm">
+      <HelpTOCNode Id="3c2e2a3f-317d-4530-ab05-b7330cf51daf" Title="Extensions Methods" Url="html/3be24466-2db5-06d6-72cb-0ff18da45663.htm">
+        <HelpTOCNode Title="ClickOnRowContainingText Method " Url="html/31d282e3-80e5-ac75-6442-58d8b2b0ae62.htm" />
+        <HelpTOCNode Title="ExecuteJs Method " Url="html/4bf55d7b-ea6f-8bad-601e-a1f10bf42694.htm" />
+        <HelpTOCNode Title="GetAllOptionsFromSelectTagDropDown Method " Url="html/504e2ca3-c59c-10e7-ebb4-72fcadb7abfa.htm" />
+        <HelpTOCNode Title="GetAllRowValuesForColumn Method " Url="html/5733cd0c-a4c5-f7b5-90e0-061630cdd621.htm" />
+        <HelpTOCNode Title="GetSelectedValueFromSelectTagDropDown Method " Url="html/85d11a39-d286-6e18-2ae8-5ced871d98ab.htm" />
+        <HelpTOCNode Title="GetTextFromAllRows Method " Url="html/e8a41249-f5a2-5c8d-3291-ef4e4bf13a42.htm" />
+        <HelpTOCNode Title="GetTextValuesFromEachCollectionItem Method " Url="html/29e453f7-02a5-04b6-820a-621fa52e7932.htm" />
+        <HelpTOCNode Title="GetValuesFromDropDown Method " Url="html/35940737-a0cb-beb4-9aa3-fa1b4edaf6b0.htm" />
+        <HelpTOCNode Title="SelectByValueFromSelectTagDropDown Method " Url="html/082b8196-2e56-d6fb-2740-62ca353d9e9c.htm" />
+        <HelpTOCNode Title="SelectItemByValuefromDrpDwn Method " Url="html/13f89772-d26b-8922-5ebd-fc738313107d.htm" />
+        <HelpTOCNode Title="SetFocusToElement Method " Url="html/344a8717-ac70-b369-6f51-9b449a93ced5.htm" />
+        <HelpTOCNode Title="SetFocusToElementAndClick Method " Url="html/9a5bd8f5-2db6-53b6-3d70-e83bdc55861c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
